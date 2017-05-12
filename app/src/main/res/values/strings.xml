@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleImageDownloader</string>
+
+    <string name="progress_loading">Loading...</string>
+</resources>

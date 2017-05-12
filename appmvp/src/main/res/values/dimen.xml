@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_dp_4">4dp</dimen>
+    <dimen name="margin_dp_8">8dp</dimen>
+    <dimen name="margin_dp_16">16dp</dimen>
+    
+    <dimen name="padding_dp_8">8dp</dimen>
+    <dimen name="padding_dp_16">16dp</dimen>
+
+    <dimen name="radius_dp_2">2dp</dimen>
+
+    <dimen name="elevation_dp_4">4dp</dimen>
+</resources>
